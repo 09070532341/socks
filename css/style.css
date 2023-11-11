@@ -1,0 +1,129 @@
+.container{
+    background-color: blue;
+    height: 100px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    float: left;
+    padding: 30px;
+}
+
+.links{
+    margin-left: 700px;
+}
+
+.logo{
+    padding-left: 20px;
+}
+
+.welcome{
+    float: left;
+    margin-right: 400px;
+    padding: 50px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.wel{
+    color: black;
+}
+
+.image{
+    float: left;
+    padding: 50px;
+}
+
+.container2{
+    background-color: blue;
+    height: 500px;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-radius: 30px;
+}
+.our{
+    float :left ; 
+    margin-right: 400px;
+    padding: 50px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.ou{
+    color: black;
+}
+.pa{
+    color: blue;
+}
+.about{
+    float: left;
+    margin-right: 400px;
+    padding: 50px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+}
+.ab{
+    color: black;
+}
+.us{
+    color: blue;
+}
+.container5{  background-color: blue;
+    margin-top: 600px;
+    height: 600px;
+
+}
+.header{
+    float: left;
+    margin-right: 700px;
+    padding: 100px;
+    color: white;
+
+}
+.btn{
+    background-color: black;
+    color: white;
+    height:40px ;
+    width: 120px;
+    border: none;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.testimonial{
+    float: right;
+    padding: 50px;
+    margin-top: 50px;
+    text-align: center;
+
+}
+.container6{
+    background-color: blue;
+    margin-top: 200px;
+    
+}
+
+    
+
+
+    
+
+   
+
+
+
+
+
+
+
+
+
